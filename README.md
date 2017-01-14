@@ -17,6 +17,10 @@ This application serves as a markdown previewer, where the user enters markdown 
 * Install dependencies by running $ npm install
 * Launch the local server with $ npm start
 
+## Deployment
+
+* Build and push to gh-pages with $ npm run deploy
+
 ## Known Bugs
 
 There are no known bugs at this time.
