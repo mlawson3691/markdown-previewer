@@ -1,0 +1,28 @@
+#input {
+  float: left;
+  width: 50%;
+  margin: 1px solid black;
+
+  textarea {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    overflow: scroll;
+  }
+}
+
+#output {
+  float: left;
+  width: 50%;
+
+  > p {
+    background: #fff;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid darkGray;
+    text-align: left;
+    padding: 10px;
+    overflow: scroll;
+  }
+}
